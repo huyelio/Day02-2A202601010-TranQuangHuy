@@ -163,7 +163,7 @@ Nhóm chọn Workflow, không chọn Agent ở giai đoạn MVP.
 ---
 
 ## Workflow before/after
-
+# Before
 ```mermaid
 flowchart TD
     A["1. Học viên gặp lỗi/câu hỏi\nkhi làm bài trên LMS\n~2 phút"]
@@ -175,7 +175,7 @@ flowchart TD
     F --> G["7. Học viên áp dụng câu trả lời\nvà làm tiếp\n~5 phút"]
 ```
 
-
+# After
 
 ```mermaid
 flowchart TD
@@ -200,9 +200,6 @@ flowchart TD
     O --> P["Cập nhật Knowledge Base\nvà gắn nhãn Verified by TA\nnếu câu trả lời tốt"]
 ```
 
-
-
-*(Biểu đồ flowchart sẽ bổ sung sau.)*
 
 Bottleneck mới:
 
